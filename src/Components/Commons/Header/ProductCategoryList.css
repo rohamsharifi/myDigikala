@@ -1,0 +1,17 @@
+.ProductCategoryList{
+    width: 100%;
+    color: #616161;
+    height: 100%; 
+    text-align: right;
+    font-size: 14px;
+}
+
+.ProductCategoryList:hover{
+    color: #EF394E; 
+    background-color: #F9F9F9;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0px; 
+ }

@@ -1,0 +1,14 @@
+.inputStyle {
+    margin-top: -8px;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+    font-size: 11px;
+    color: #555;
+    border: 1px solid transparent;
+    line-height: 2px;
+    padding: 7px 28px 8px 2px;
+}
+
+.inputStyle:focus {
+    box-shadow: none;
+}

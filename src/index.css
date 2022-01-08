@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "YekanBakh"; 
+    src: "./public/fonts/YekanBakh.woff";
+}
+* {
+    font-family: "YekanBakh";
+    text-decoration: none;
+}

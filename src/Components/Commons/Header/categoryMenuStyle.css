@@ -1,0 +1,19 @@
+.categoryMenuStyle1 {
+    color: #232933; 
+    font-size: 14px; 
+    margin-top: -5px;
+}
+
+.categoryMenuStyle1:hover {
+    color: #EF394E; 
+}
+
+.categoryMenuStyle2 {
+    color: #4a5f73; 
+    font-size: 12px; 
+    margin-top: -3px;
+}
+
+.categoryMenuStyle2:hover {
+    color: #EF394E; 
+}

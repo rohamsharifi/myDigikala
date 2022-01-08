@@ -1,0 +1,13 @@
+.AOProductStyle {
+    color: #535353;
+    font-size: 13px;
+    padding: 30px 10px 30px 0px;
+}
+
+.col-9-5 {
+    width: 75%;
+}
+
+.col-3-5 {
+    width: 31%;
+}
